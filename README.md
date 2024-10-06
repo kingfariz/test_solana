@@ -1,1 +1,3 @@
-# test_solana
+# solana_mobile_wallet_example
+
+A new Flutter project.
